@@ -1,0 +1,3 @@
+Mood: Exited
+
+Built my first file reading application.
